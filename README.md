@@ -1,5 +1,5 @@
 # Website_Store
 javascript, sqldatabase, php, html, css
 ## Credit
-cre code: eirlys
+cre code: SerenityEirlys
 pr: Relive21
